@@ -1,2 +1,2 @@
-# basketball-charlie-game
+# family-charlie-game
 CIS 376 fall 2026 game.
